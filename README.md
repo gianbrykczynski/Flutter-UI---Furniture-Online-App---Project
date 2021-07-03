@@ -27,11 +27,16 @@
 <div align="justify">
    
  <p>
-Estudos recentes com a utilização de aplicativos instalados em smartphones e tablets obtiveram resultados significativos no auxílio de cuidados da saúde de pacientes infectados nesta pandemia, correlacionando os aplicativos móveis com diversas funcionalidades desenvolvidas para auxiliar na gestão desta crise, auxiliando, significativamente, o trabalho realizado pelos profissionais da saúde.
+Por que ter e-commerce.
+   
+Para as empresas offline terem seu canal de vendas online e não ficarem atrasadas, é preciso ter em mente que o e-commerce é um canal adicional de vendas e de alcance da empresa. No momento, a pandemia mostrou do pior jeito e comprovou que as empresas que realizam vendas e não possuem e-commerce, não entraram neste novo século e estão atrasadas.
+   
+O e-commerce de móveis teve alta de 94,4% até maio em relação a 2019, um faturamento total de R$ 2,51 bilhões. Os dados são da pesquisa realizada pelo movimento Compre&Confie em parceria com a Associação Brasileira de Comércio Eletrônico (ABComm). O aumento da venda de móveis por meio online ocorreu por dois motivos: fechamento das lojas físicas e o fator home office.
+   
+[fonte](https://emobile.com.br/site/varejo/e-commerce-de-moveis-cresce-944-neste-ano/)
 
-Nesse sentido, os aplicativos apresentam-se como grande aliados neste momento de tanta dificuldade para a depuração de uma enorme quantidade de informações, trazendo benefícios para a área da saúde, economia e, principalmente, para a sociedade que está vivenciando momentos de crise na saúde com o avanço do COVID-19
-
-</p>
+</p>            
+  
 </div>
 
 

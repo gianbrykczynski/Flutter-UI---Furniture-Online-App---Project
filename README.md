@@ -60,12 +60,12 @@ A construção da aplicação em questão me proporcionou obter conhecimentos re
 <h2 align="center">Layout</h2>
 
    <p align="center">
-      <img alt="App-Tracker-Covid19" title="Covid-19" src="https://github.com/gianbrykczynski/Flutter-UI---Furniture-Online-App---Project/blob/master/assets/images/furniture_online_app_layout.jpg" />
+      <img alt="MovApp" title="MovApp" src="https://github.com/gianbrykczynski/Flutter-UI---Furniture-Online-App---Project/blob/master/assets/images/furniture_online_app_layout.jpg" />
   
    </p>
 
    <p align="center">
-      O Layout foi desenvolvido por <a href="https://dribbble.com/ayushpara">Ayush Parashar</a>, e você pode acessá-lo no dribbble.com:
+      O Layout foi encontrado por <a href="https://www.youtube.com/channel/UCUwKif7EmAe5aS7IjsUMlCw">Sopheamen</a>, e você pode acessá-lo pesquizando no https://www.google.com.br/
    </p>
 
 ---
@@ -73,7 +73,7 @@ A construção da aplicação em questão me proporcionou obter conhecimentos re
 <h2 align="center">Demosntração Covid19-Tracker-App</h2>
 
   <p align="center">
-      <img alt="App-Covid19" title="App-Covid19" src="https://github.com/gianbrykczynski/Flutter-UI---Furniture-Online-App---Project/blob/master/assets/images/app_store_video.gif" />
+      <img alt="MovApp" title="MovApp" src="https://github.com/gianbrykczynski/Flutter-UI---Furniture-Online-App---Project/blob/master/assets/images/app_store_video.gif" />
    </p>
    
 ---

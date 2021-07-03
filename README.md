@@ -69,7 +69,7 @@ A construção da aplicação em questão me proporcionou obter conhecimentos re
 <h2 align="center">Demosntração Covid19-Tracker-App</h2>
 
   <p align="center">
-      <img alt="App-Covid19" title="App-Covid19" src="https://github.com/gianbrykczynski/Flutter-UI---Covid19-Tracker-App-Project/blob/master/assets/app_covid_19.gif" />
+      <img alt="App-Covid19" title="App-Covid19" src="https://github.com/gianbrykczynski/Flutter-UI---Furniture-Online-App---Project/blob/master/assets/images/app_store_video.gif" />
    </p>
    
 ---

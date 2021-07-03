@@ -46,13 +46,12 @@ O e-commerce de móveis teve alta de 94,4% até maio em relação a 2019, um fat
 
 <div align="justify">
    
- <p>
-O projeto tem como foco o desenvolvimento de 2 telas com layout moderno e limpo contendo  informações pertinentes e relacionadas ao COVID-19, desta maneira podemos acompanhar os casos recuperados, ativos, e perdas causadas pela COVID-19. Logo abaixo temos um gráfico para acompanhamento do aumento ou diminuição dos casos. Na tela seguinte podemos responder a um questionário que mapeia os sintomas causados pela covid 19.
+<p>
+O projeto tem como foco o desenvolvimento de 2 telas com layout moderno e limpo, contendo na primeira página os produtos comercializados por uma loja virtual de móveis, os itens se encontram disponibilizados em forma de lista, onde o cliente pode visualizar de forma rápida e fácil.
+Caso exista interesse em algum item listado, basta clicar sobre o produto e será direcionado a segunda página onde informações mais detalhadas sobre o mesmo serão exibidas.  
 
-A construção da aplicação em questão me proporcionou obter conhecimentos referentes a construção de [layouts](https://flutter.dev/docs/development/ui/widgets/layout) com flutter aplicando seus principais [widgets](https://flutter.dev/docs/development/ui/widgets), além disso outro ponto importante referente ao aprendizado com o projeto foi ter a oportunidade de conhecer como o package [charts_flutter](https://pub.dev/packages/charts_flutter) funciona para criar gráficos dentro das aplicações. 
-
-
-
+A construção da aplicação em questão me proporcionou obter conhecimentos referentes ao desenvolvimento de [layouts](https://flutter.dev/docs/development/ui/widgets/layout) com flutter aplicando seus principais [widgets](https://flutter.dev/docs/development/ui/widgets), além disso outro ponto importante referente ao aprendizado com o projeto foi ter a oportunidade de conhecer como o recurso [Hero](https://flutter.dev/docs/development/ui/animations/hero-animations) funciona para criar animações dentro da aplicação, proporcionando uma experiência mais agradável aos usuários durante a compra.
+ 
 </p>
 </div>
 

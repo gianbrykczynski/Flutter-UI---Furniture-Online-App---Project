@@ -70,7 +70,7 @@ A construção da aplicação em questão me proporcionou obter conhecimentos re
 
 ---
 
-<h2 align="center">Demosntração Covid19-Tracker-App</h2>
+<h2 align="center">Demosntração Furniture-Online-App</h2>
 
   <p align="center">
       <img alt="MovApp" title="MovApp" src="https://github.com/gianbrykczynski/Flutter-UI---Furniture-Online-App---Project/blob/master/assets/images/app_store_video.gif" />

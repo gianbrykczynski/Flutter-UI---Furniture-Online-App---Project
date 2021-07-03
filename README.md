@@ -1,5 +1,5 @@
-#<p align="center">
-  <img alt="MovApp" src="https://github.com/gianbrykczynski/Flutter-UI---Covid19-Tracker-App-Project/blob/master/assets/banner_covid_app.png" width="400px">
+<p align="center">
+  <img alt="MovApp" src="https://github.com/gianbrykczynski/Flutter-UI---Furniture-Online-App---Project/blob/master/assets/images/furniture_banner_app.png" width="400px">
 </p>
 
 ---

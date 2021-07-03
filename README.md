@@ -56,7 +56,8 @@ A construção da aplicação em questão me proporcionou obter conhecimentos re
 <h2 align="center">Layout</h2>
 
    <p align="center">
-      <img alt="App-Tracker-Covid19" title="Covid-19" src="https://github.com/gianbrykczynski/Flutter-UI---Covid19-Tracker-App-Project/blob/master/assets/layout_app_covid.webp" />
+      <img alt="App-Tracker-Covid19" title="Covid-19" src="https://github.com/gianbrykczynski/Flutter-UI---Furniture-Online-App---Project/blob/master/assets/images/furniture_online_app_layout.jpg" />
+  
    </p>
 
    <p align="center">

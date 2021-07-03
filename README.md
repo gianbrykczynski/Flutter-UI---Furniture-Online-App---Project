@@ -88,10 +88,10 @@ A construção da aplicação em questão me proporcionou obter conhecimentos re
 
    ```
    - Clone esse repositório:
-   $ git clone https://github.com/gianbrykczynski/Flutter-UI---Covid19-Tracker-App-Project.git
+   $ git clone https://github.com/gianbrykczynski/Flutter-UI---Furniture-Online-App---Project.git
 
    - Entre no diretório:
-   $ cd covid_app
+   $ cd app_store
 
    - Instale as dependências:
    $ flutter pub get
@@ -104,7 +104,7 @@ A construção da aplicação em questão me proporcionou obter conhecimentos re
 
 <h2 align="center">Autor</h2>
 
-   >Esse projeto foi desenvolvido por **Gian Cristian Brykczynski** durante o mês de maio com auxílio de **[Flutter UI - Covid19 Tracker App - Speed Code](https://www.youtube.com/watch?v=7JRhP_L7xcs&list=PLVY9IbkulBUiKDrT5BFcMKXxtk4b0IJIX&index=41)**.<br> 
+   >Esse projeto foi desenvolvido por **Gian Cristian Brykczynski** durante o mês de maio com auxílio de **[Flutter UI - Furniture Online App - Speed Code](https://www.youtube.com/watch?v=KJamdcbHFdg&list=PLVY9IbkulBUiKDrT5BFcMKXxtk4b0IJIX&index=39)**.<br> 
    >Clique no link azul e assista ao vídeo para saber mais. 
    
 ---

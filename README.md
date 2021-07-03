@@ -64,9 +64,9 @@ A construção da aplicação em questão me proporcionou obter conhecimentos re
   
    </p>
 
-   <p align="center">
-      O Layout foi encontrado por <a href="https://www.youtube.com/channel/UCUwKif7EmAe5aS7IjsUMlCw">Sopheamen</a>, e você pode acessá-lo pesquizando no https://www.google.com.br/
-   </p>
+<p align="center">
+   O Layout foi encontrado por <a href="https://www.youtube.com/channel/UCUwKif7EmAe5aS7IjsUMlCw">Sopheamen</a>, e você pode acessá-lo realizando uma busca no <a href="https://www.google.com.br/">Google</a>
+</p>
 
 ---
 
